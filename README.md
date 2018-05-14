@@ -20,6 +20,19 @@ Calma meu jovem Padawan, o caminho é longo e as pernas são curtas...
 
 [Aqui](pdf/) o caminho encontrar, você irá...
 
+### O que você quer que eu faça?
+Deposite R$ 120.000,00 na minha cont... opa, aqui não.
+
+Esperamos que você desenvolva uma ferramenta ou uma metodologia para integração e análise de dados voltado para recém nascidos.
+
+Em português: Queremos que você descubra algo interessante e útil analisando a base de dados disponibilizada, e que essa coisa super legal que você vai criar, seja voltada para materno infantil.
+
+### Como farei?
+Dê uma boa lida nos [dicionários de dados](pdf/), reflita sobre a vida o universo e tudo mais, aprecie um delicioso café e leia novamente os dicionários de dados.
+
+Após ter certeza que leu, tente relacionar as variáveis nos diferentes bancos que possam fazer sentido juntas ou para o problema em questão.
+
+Bole um plano de dominação do mundo, leia o resto desta página e mãos ao código.
 
 ## Vamos ao conteúdo
 A maioria das ferramentas apresentadas aqui são em [Python](https://www.python.org/downloads/), então já sabe o que fazer...
