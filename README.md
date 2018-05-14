@@ -63,3 +63,20 @@ Cria regressão não linear por método Neural para predição de novos valores.
 Ou seja, serve para descobrir o próximo valor, dado uma sequência.
 
 - [Rede Neural Classificadora](src/rna_sklearn.py)
+
+Rede Neural para classificação (Básica) usando a ferramenta sciKit Learn
+
+- [Rede Neural Classificadora Sem Lib](src/rna_without_lib.py)
+
+Rede Neural para classificação (3 camadas) sem usar lib, somente com numpy
+
+- [Arquivo com 3 RNA de classificação](src/rna_bagunca.py)
+
+Arquivo com 3 redes Neurais implementadas, bem bagunçado, mas tem umas funções interessantes... boa sorte!
+
+- [Integração de dados no ultimo BlueHack](src/data_integration_blhack.py)
+
+Integração de dados entre duas bases sem conexão aparente (Desenvolvido durante o evento *Blue Hack 2017 Curitiba*)
+
+- [Quer algo mais parrudo?](https://github.com/joaopandolfi/crfasrnn)
+Rede Neural baseada na Caffe para segmentação semântica (Ok,eu sei é p processamento de image, mas eu n sei o que você vai fazer né *:D* )
